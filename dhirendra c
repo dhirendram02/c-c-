@@ -9,7 +9,7 @@ int main()
     {
         for(c=0;c<b;r++)
         {
-          if(r<c)
+          if(r>c)
           {
             sum = sum + arr[r][c];
             }
