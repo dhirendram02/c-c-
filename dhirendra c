@@ -10,8 +10,7 @@ int main()
         for(c=0;c<b;c++)
         {
           if(r<c)
-          {
-            sum = sum + arr[r][c];
+          sum = sum + arr[r][c];
             }
         }
     }
