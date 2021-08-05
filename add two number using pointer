@@ -9,7 +9,7 @@ int main()
    p = &a;
    q = &b;
 
-   sum = *p - *q;
+   sum = *p + *q;
 
    printf("%d\n", sum);
 
