@@ -11,6 +11,6 @@ for(i=0;i<n;i++)
 scanf("%d",&arr[i]);
 }
 startno=largest(arr);
-printf("%d",stno);
+printf("%d",startno);
 return 0;
 }
